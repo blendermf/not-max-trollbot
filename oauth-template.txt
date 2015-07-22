@@ -1,0 +1,13 @@
+# Config (make copy called oauth.txt, fill in Appinfo section. MAKE SURE THE FILLED OUT oauth.txt STAYS SECRET AND OFF GIT)
+scope=identity,read,vote,edit,flair,history,modflair,modposts,mysubreddits,privatemessages,report,save,submit
+# These grant the bot to every scope, only use those you want it to access.
+
+refreshable=True
+
+# Appinfo
+app_key=thisistheid
+app_secret=ThisIsTheSecretDoNotShare
+
+# Token
+token=None
+refresh_token=None
