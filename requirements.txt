@@ -2,8 +2,8 @@ APScheduler==3.0.3
 PyMySQL==0.6.6
 SQLAlchemy==1.0.7
 asyncio==3.4.3
-decorator==3.4.2
-praw==3.1.0
+decorator==4.0.2
+https://codeload.github.com/praw-dev/praw/zip/master#egg=praw-3.1.0
 praw-oauth2util==0.1.5
 prawoauth2==0.1.5
 python-dateutil==2.4.2
